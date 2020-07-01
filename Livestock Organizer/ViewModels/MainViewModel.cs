@@ -97,15 +97,15 @@ namespace LivestockOrganizer.ViewModels
         }
         private void GetAnimalRecordByNumber()
         {
-            Animals = new ObservableCollection<Animal>();
-            var animalAdapter = new LivestockDataAccess.AnimalAdapter();
-            var dbAnimals = animalAdapter.GetAnimalsByNumber("LivestockDB",);
-            foreach (var a in dbAnimals)
-            {
-                var animalObject = new Animal(a);
+            //Animals = new ObservableCollection<Animal>();
+            //var animalAdapter = new LivestockDataAccess.AnimalAdapter();
+            //var dbAnimals = animalAdapter.GetAnimalsByNumber("LivestockDB",);
+            //foreach (var a in dbAnimals)
+            //{
+            //    var animalObject = new Animal(a);
 
-                Animals.Add(animalObject);
-            }
+            //    Animals.Add(animalObject);
+            //}
         }
     }
 }
