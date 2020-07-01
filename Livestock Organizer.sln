@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livestock Organizer", "Live
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLDatabase", "SQLDatabase\SQLDatabase.sqlproj", "{6B331ABE-9F48-480F-844A-A6B8B43EA526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivestockDataAccess", "ClassLibrary1\LivestockDataAccess.csproj", "{F0F887F9-216A-477F-A208-F50F9DE3C162}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivestockDataAccess", "Livestock Data Access\LivestockDataAccess.csproj", "{F0F887F9-216A-477F-A208-F50F9DE3C162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

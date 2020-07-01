@@ -102,7 +102,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\LivestockDataAccess.csproj">
+    <ProjectReference Include="..\Livestock Data Access\LivestockDataAccess.csproj">
       <Project>{f0f887f9-216a-477f-a208-f50f9de3c162}</Project>
       <Name>LivestockDataAccess</Name>
     </ProjectReference>
